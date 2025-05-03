@@ -1,4 +1,4 @@
-# Digit-Recognition-Using-CNN
+# Digit Recognition Using CNN
 
 This project implements a **Convolutional Neural Network ** for classifying handwritten digits using the **Functional API** in **Keras**. The model is trained on the **MNIST dataset**, which contains 70,000 grayscale images of digits from 0 to 9.
 
