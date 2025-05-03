@@ -55,7 +55,7 @@ Edit
 Clone the repository and run the notebook locally:
 
 ```bash
-git clone https://github.com/yourusername/digit-recognition-functional-cnn.git
+git clone https://github.com/WORSHIPPERFX/digit-recognition-functional-cnn.git
 cd digit-recognition-functional-cnn
 jupyter notebook cnn-digit-recognition.ipynb
 Or run it directly on Kaggle.
