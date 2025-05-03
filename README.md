@@ -26,11 +26,11 @@ This project implements a **Convolutional Neural Network ** for classifying hand
 
 ## Project Structure
 
- digit-recognition-functional-cnn
-├── cnn-digit-recognition.ipynb # Main notebook
-├── Model training and evaluation
-├── Prediction and visualization
-└── Dataset: Loaded via Keras (MNIST)
+ digit recognition functional cnn
+ cnn-digit-recognition.ipynb # Main notebook
+ Model training and evaluation
+ Prediction and visualization
+ Dataset: Loaded via Keras (MNIST)
 
 yaml
 Copy
